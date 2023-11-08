@@ -24,7 +24,7 @@ See this tutorial vedio...
 [![MIT License](https://img.shields.io/badge/Tutorial-How_To_use-green.svg)](https://www.linkedin.com/posts/arpit-mourya-068222260_hey-there-i-have-some-awesome-news-for-activity-7089540995402375168-3_OP?utm_source=share&utm_medium=member_desktop)
 
 ![See this vedio](DrugDispenser.png).
-![See this vedio](New-Microsoft-PowerPoint-Presentation.jpg)
+![See this vedio](Medicinestrip.png)
 ## Authors
 
 - [@ArpitMourya](https://github.com/ArpitMourya)
