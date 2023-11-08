@@ -21,8 +21,6 @@ The Drug Dispensing Machine is an automated system designed to medication dispen
 ## How does it work??
 See this tutorial vedio...
 
-[![MIT License](https://img.shields.io/badge/Tutorial-How_To_use-green.svg)](https://www.linkedin.com/posts/arpit-mourya-068222260_hey-there-i-have-some-awesome-news-for-activity-7089540995402375168-3_OP?utm_source=share&utm_medium=member_desktop)
-
 
 https://github.com/SourabhSingh07/Drug_dispenser_inno_vision/assets/137528084/48d16e26-aaf0-4ce6-85d3-89b051e6cd01
 
